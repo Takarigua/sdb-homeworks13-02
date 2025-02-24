@@ -12,7 +12,8 @@
 
 ### Ответ
 
-1. ![task1](https://github.com/Takarigua/sdb-homeworks13-02/blob/bf9ca3178a891c278d6a63199c0771f8d0edc605/img/Task1.png)
+1. eCryptfs установил через apt install через родной репозиторий
+2. ![task1](https://github.com/Takarigua/sdb-homeworks13-02/blob/bf9ca3178a891c278d6a63199c0771f8d0edc605/img/Task1.png)
 
 ---
 
